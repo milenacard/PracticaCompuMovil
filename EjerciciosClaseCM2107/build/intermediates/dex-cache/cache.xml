@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64f5ecf972f79fc1c70d05513f9ad69334c6341">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a474ade8035b2821e0c986a14b7e08d6798ab9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_71a501ede82e1f69f19748d0d77c23ae57f3062d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_08fc335e874e48a54092c6f33b483d52a000feaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c4f5024fefcba4afc5bdd77a2160baca0c8abcc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0103f83adf5d37a9d29f1aa525ed237be18f660e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_b449222c7715e599629e60c6dd51a6b64deb159a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_23ba53725c189da63aeb5178978979b3424c1f1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5884c7b03e26ffcd44a7b0cd6b88e3333d8be488">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d07f19993c9adf284526994fb540d3c9c072260c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_06bb8158eb3b3d5fbb91fe67479073d5624957a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_142b7b421d8c4cb98455f676bbcada88185810ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_87984ed761794dfa52f25f397e8c21ce59b136f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_3715416b2b339928ae51aee760845349e004ef90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_4cdb9a3747beffbc2f5a4127e0a521de96aa725d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7b9fbfcf98a79614bf7bdb771f8c7917ab6cdc63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_65fb936ef9ae427e4113e43daf9d6ca8a134a1ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f58e52fa0e39e84ac36e058038b19218114c043e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dddba717ef747aa84001282ddbd3c4215a8ff90c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_1f602c6d13413015af118a5d47ba616d6acdad3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\user\Desktop\UdeA\CompuMovil\EjerciciosClaseCM2107\layout_views\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a3bf935da59c771b7a699847feac3d96f79da9a7\classes.dex" />
+    </item>
+
+</items>
